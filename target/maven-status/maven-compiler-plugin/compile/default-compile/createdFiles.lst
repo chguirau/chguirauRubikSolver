@@ -1,0 +1,12 @@
+com/chg/rubiksolver/RubikModel$Color.class
+com/chg/rubiksolver/RubikCHG.class
+com/chg/rubiksolver/RubikModel.class
+com/chg/rubiksolver/RubikModel$RotationCube.class
+com/chg/rubiksolver/RubikModel$Rotation.class
+com/chg/rubiksolver/EdgePosition$1.class
+com/chg/rubiksolver/RubikModel$Face.class
+com/chg/rubiksolver/CornerCubie.class
+com/chg/rubiksolver/CornerPosition.class
+com/chg/rubiksolver/EdgePosition.class
+com/chg/rubiksolver/EdgeCubie.class
+com/chg/rubiksolver/RubikModel$1.class
